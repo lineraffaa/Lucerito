@@ -9,9 +9,6 @@ int main()
 
     cin >> casos;
 
-
-   
-
     for (int i = 0; i < casos; i++)
     {
 

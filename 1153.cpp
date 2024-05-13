@@ -12,6 +12,6 @@ int main()
     {   
         nu *= i;
     } 
-      cout << nu << endl;
+    cout << nu << endl;
 }/*i < 4 i = 4 (i) = 1 valendo.. i < 4, i = 4 (i) = 2 valendo.. i < 4, i = 4 (i) = 3 valendo.. i <= 4, (i) = 4 valendo */ 
 /* (nu) recebe e multiplica os valores de (i)*/
